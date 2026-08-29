@@ -141,3 +141,5 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 - Inspired by classic recon tools: nmap, dirb, gobuster
 - Built for cybersecurity students and aspiring pentesters
+
+#owner: DUCVIET1622
