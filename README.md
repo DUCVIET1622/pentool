@@ -99,6 +99,9 @@ $ python pentool.py scan 192.168.1.10 -p 1-100
 
 [*] Scan complete: 3 ports open in 1.42s
 ```
+## Example images for all three capabilities of the tool:
+
+<img width="1375" height="854" alt="Ảnh chụp màn hình 2026-08-30 003131" src="https://github.com/user-attachments/assets/7abf6da8-10d2-47fe-a90d-21ce1bdda682" />
 
 ## Project Structure
 
